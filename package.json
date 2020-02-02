@@ -1,6 +1,6 @@
 {
-  "name": "jsonapi-datastore",
-  "version": "0.4.0-beta",
+  "name": "@theliturgists/jsonapi-datastore",
+  "version": "0.4.0-beta-1",
   "description": "JavaScript client-side JSON API data handling made easy.",
   "main": "dist/node-jsonapi-datastore.js",
   "files": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beauby/jsonapi-datastore.git"
+    "url": "git+https://github.com/theliturgists/jsonapi-datastore.git"
   },
   "keywords": [
     "JSON",
@@ -26,9 +26,9 @@
   "author": "Lucas Hosseini <lucas.hosseini@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beauby/jsonapi-datastore/issues"
+    "url": "https://github.com/theliturgists/jsonapi-datastore/issues"
   },
-  "homepage": "https://github.com/beauby/jsonapi-datastore#readme",
+  "homepage": "https://github.com/theliturgists/jsonapi-datastore#readme",
   "devDependencies": {
     "chai": "^3.2.0",
     "gulp": "^3.9.0",
