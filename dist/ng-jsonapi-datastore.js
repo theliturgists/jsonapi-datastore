@@ -251,9 +251,6 @@
                 model[key] = findOrInit(rel.data);
               }
             }
-            if (rel.links) {
-              console.log("Warning: Links not implemented yet.");
-            }
           }
         }
 

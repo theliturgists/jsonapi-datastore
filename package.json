@@ -1,6 +1,6 @@
 {
   "name": "@theliturgists/jsonapi-datastore",
-  "version": "0.4.0-beta-2",
+  "version": "0.4.0-beta-3",
   "description": "JavaScript client-side JSON API data handling made easy.",
   "main": "dist/node-jsonapi-datastore.js",
   "files": [
